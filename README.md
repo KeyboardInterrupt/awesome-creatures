@@ -17,6 +17,8 @@
 - [Brf's Creatures Page](http://home.insightbb.com/~brf.creatures/creature.htm)
 - [BoBCoB Source](https://doxxx.net/bobcob/)
 - [Buy Creatures Exodus from GOG.com (XP, Vista, 7)](https://www.gog.com/game/creatures_exodus)
+- [Buy Creatures Vilage from GOG.com (XP, Vista, 7)](https://www.gog.com/game/creatures_village)
+- [Buy Creatures The Albian Years from GOG.com (XP, Vista, 7)](https://www.gog.com/game/creatures_the_albian_years)
 - [CAOS APPS](http://songua.com/creatures/caosapps/)
 - [Caos of the Creatures Realm](https://caosofthecreaturesrealm.wordpress.com/)
 - [CCSF (Years 2005-2017)](https://creatures.wiki/Creatures_Community_Spirit_Festival)
@@ -42,7 +44,7 @@
 - [Creatures Developer Resource](http://double.nz/creatures/)
 - [Creatures Docking Station (Offline Patch)](http://creaturesdockingstation.com/)
 - [Creatures Explorer](http://creaturescaves.com/explorer/)
-- [Creaturesforum.de](http://www.creaturesforum.de/)
+- [Creaturesforum.de](http://www.creaturesforu)
 - [CreaturesFrance](http://creaturesfrance.free.fr/) 🇫🇷
 - [CreaturesFrance Forum](http://creatures.pcjeuxvideo.com/forum/)
 - [Creatures From Lurkspace](http://mioonktooslurkspace.blogspot.com/)
@@ -92,7 +94,7 @@
 - [Nadia Eat Hand](https://eat-hand.blogspot.com/)
 - [Naturing](http://naturingnurturing.blogspot.com/)
 - [Norngarden, The](http://norngarden.albia2000.com/)
-- [Norn Adoption Center](http://www.creaturesforum.de:8080/nornhome/) 🇩🇪
+- [Norn Adoption Center](http://www.creaturesforum.de:8080/nornhome) 🇩🇪
 - [Norn Inn, The](http://imnorny.tripod.com/)
 - [Norn Nebula, The](https://thenornnebula.blogspot.com/)
 - [Norngirl's Temporary Storage Place](https://sites.google.com/site/norngirlstemporarystorageplace/)
@@ -192,14 +194,14 @@
 - [Zauberalbia](https://www.zauberfee.de/zauberalbia/)
 - [The Creatures Clinic](https://sites.google.com/site/thecreaturesclinic/)
 - [Chaos Created](https://chaoscreated.com/shop/index.htm)
-- [Kris_D's Download-Page](http://www.kridre.de/creatures/downloads.htm)
+- [Kris_D's Download-Page](http://www.kridre.de/creatures/downloads.htm) ☠
 - [Kari's Page](http://karipage.creaturesforum.de/)
-- [MadDoc's Welt](http://www.maddocs-welt.de.vu/)
+- [MadDoc's Welt](http://www.maddocs-welt.de.vu/) ☠
 - [Creatures Playground](http://www.gamewaredevelopment.com/cv/)
 - [Norngirl's Temp. Storage Place](https://sites.google.com/site/norngirlstemporarystorageplace/)
 - [Creatures Shtuff](http://www.norns.webs.com) ☠
 - [Albia Volcanis](http://albiavolcanis.blogspot.com/)
-- [ettin.info](http://ettin.info/)
+- [ettin.info](http://ettin.info/) ☠
 - [Jodie's Creatures Breeds](http://jodiescreaturebreeds.webs.com/) ☠
 - [GOG.com's Creatures Forum](https://www.gog.com/en/forum/creatures_series/)
 - [CC Chat](https://creatureschat.com)
@@ -211,7 +213,7 @@
 - [Breeders Beware](http://www.ghostfishe.net/bbw/)
 - [The Norn Request](http://nrequest.tripod.com/frames.htm)
 - [Engineering](http://engineering.ylukyun.com/)
-- [Norn Holiday](http://www.reocities.com/SiliconValley/Vista/7820/index.html)
+- [Norn Holiday](http://www.reocities.com/SiliconValley/Vista/7820/index.html) ☠
 - [The Original Norn Hospital](http://www.angelfire.com/me/NornHospital/index.html)
 - [Random Access Creatures](http://www.creaturesvillage.com/darcie/index.html)
 - [Darklabs](http://www.darkant.karoo.net/)
@@ -232,63 +234,63 @@
 - [Creatures Heaven](http://creatures.virtualheaven.nl/)
 - [Brianna's Videogame Crazy Site](http://www.freewebs.com/bri1234/index.htm) ☠
 - [Home Sweet Albia](http://www.zenzoa.com/creatures/)
-- [Hausmouse's Creatures 3 Page](http://home.comcast.net/~hausmouse7/index.htm)
+- [Hausmouse's Creatures 3 Page](http://archive.is/20121219223756/home.comcast.net/~hausmouse7/) 🗄
 - [The Norn Hill](http://www.members.tripod.com/~brissy/creatures.html)
-- [Muppetboy's Geatville](http://geatville.weebly.com/)
+- [Muppetboy's Geatville](https://geatville.weebly.com/)
 - [Oliver Vik's Site](http://inkiw.net/olivervik/)
-- [Symia's Norn Site](http://symia.tripod.com/symianet)
+- [Symia's Norn Site](http://symia.tripod.com/symianet/)
 - [The Official Club Albia Forum](http://darkdraconorn.proboards.com/)
-- [The Creature Repository](http://tcr.diagonalfish.net/)
-- [TazzMan's Creatures Universe](http://members.tripod.com/~TazzMann/index.html)
+- [The Creature Repository](https://tcr.diagonalfish.net/)
+- [TazzMan's Creatures Universe](http://tazzmann.tripod.com/index.html)
 - [KC11's Norn Site](http://tribert0.tripod.com/kc11snornsite/)
 - [Norn and Grendel Paradise](http://www.creaturesvillage.com/spotling/)
 - [Alien's Creatures World](http://www.aliencreatures.de/)
 - [Wolfling 8k](http://www.freewebs.com/wolfing8k/index.htm) ☠
 - [Lil' Norn Town](http://www.freewebs.com/norn_town/index.htm) ☠
-- [Library Albia](http://www.reocities.com/Athens/Parthenon/7349/)
+- [Library Albia](http://www.reocities.com/Athens/Parthenon/7349/) ☠
 - [The Creatures Wiki](https://creatures.wiki/)
-- [Cobfinder General](http://www.probetech.co.uk/cobdata/index.html)
+- [Cobfinder General](http://www.probetech.co.uk/cobdata/index.html) ☠
 - [The Creatures Corral](http://www.feralchicken.co.uk/creatures/index.html)
-- [Fig's Tree](http://majic13.com/creatures/)
+- [Fig's Tree](http://majic13.com/creatures/) ☠
 - [Wyvern's Lodge](http://tangentrine.com/content/wyvernslodge)
 - [Gameware Development](http://www.gamewaredevelopment.com)
 - [The Island of Dr RudeDog](http://www.rudedog.freeservers.com/index.html)
 - [Norntropolis](http://norntropolis.albia2000.com)
-- [Albia 2000](http://www.albia2000.com)
-- [The Universe of Ettins](http://www.ettin-trix.be)
+- [Albia 2000](http://www.chaoscreated.com/creatures/) 🗄
+- [The Universe of Ettins](http://www.ettin-trix.be) ☠
 - [TreeSprite's Grove](http://creatures.treesprite.com)
-- [AmberCreatures](http://webpetz.com/creatures/)
-- [Creatures Developer Resource](http://www.double.co.nz/creatures)
+- [AmberCreatures](http://www.webpetz.com/creatures/)
+- [Creatures Developer Resource](http://double.nz/creatures/)
 - [Amanora's Creatures](http://creatures.amanora.de/)
 - [Adventures In Nornsitting](http://www.creaturesvillage.com/wafuru/e/main.html)
 - [Creatures Unlimited](http://germancreatures.net)
 - [Mummy's Creatures](http://www.creatures.de)
-- [GreenReaper Studios](http://greenreaper.co.uk/)
-- [BoBCoB Source](https://www.doxxx.net/bobcob/)
+- [GreenReaper Studios](https://greenreaper.co.uk/)
+- [BoBCoB Source](https://doxxx.net/bobcob/)
 - [Creatures Playground Review](https://www.theguardian.com/technology/2000/nov/16/onlinesupplement4)
 - [The Shee's Lost Knowledge](http://sheeslostknowledge.blogspot.com/)
 - [Fishing Cactus Studios Forums](http://forums.fishingcactus.com/index.php)
 - [The Dcreatures Castle](https://people.zeelandnet.nl/mogwel/index_.htm)
-- [Shiny Bengal Update Blog](http://shinynorns.blogspot.de/)
+- [Shiny Bengal Update Blog](http://shinynorns.blogspot.com/)
 - [Jagent on Sourceforge](https://sourceforge.net/projects/jagent/)
-- [Toa-Nuva's Spieletipps](http://toanuva.bplaced.net/spieletipps/)
+- [Toa-Nuva's Spieletipps](http://www.toanuva.de/spieletipps/)
 - [The Norn Inn](http://imnorny.tripod.com/)
 - [CAOS APPS](http://songua.com/creatures/caosapps/)
 - [Daily Creature Feature](http://kezune.com/sim/daily-creature-feature/)
 - [Exodus Creation Manual](http://www.kutoka.com/guides/en/manual-creatures-exodus.pdf)
-- [Geek Ettin's Lab](http://creaturescommunity.net/eprillios/blog/)
+- [Geek Ettin's Lab](http://creaturescommunity.net/eprillios/blog/) ☠
 - [The Norngarden](http://norngarden.albia2000.com)
 - [Creatures 3 Home](http://www.aliencreatures.de/wwwcreatures3com/non_flash/index.html)
 - [Creatures.Ham5ter.de](http://creatures.ham5ter.de/)
-- [The Creatures Connection](https://creaturesconnection.sourceforge.net/) ☠
-- [Creatures Online at ProSieben](http://www.prosiebengames.de/creatures-online)
-- [Creatures Series - ODP](http://www.dmoz.org/Games/Video_Games/Simulation/God_Games/Creatures_Series/)
+- [The Creatures Connection](https://creaturesconnection.sourceforge.io/) ☠
+- [Creatures Online at ProSieben](http://www.prosiebengames.de/creatures-online) ☠
+- [Creatures Series - ODP](http://dmoz-odp.org/Games/Video_Games/Simulation/God_Games/Creatures_Series/)
 - [Ancient Alibia](http://members.tripod.com/ancient_alibia/index.htm)
 - [Piecemeal's Adequate Creatures](http://bit.ly/13k7Zvu)
 - [All My Norns](http://www.oocities.org/siliconvalley/heights/7282/)
 - [Lilith's Norncare Center](http://www.angelfire.com/ns/norncenter/)
-- [Callie's Creatures](http://gabby.8m.com/)
-- [Suzi's Spot](http://freespace.virgin.net/danielle.parker/)
+- [Callie's Creatures](http://gabby.8m.com/) ☠
+- [Suzi's Spot](http://freespace.virgin.net/danielle.parker/) ☠
 - [The Albian WebNest](http://theawn.tripod.com/)
 - [The C2 Adoption Agency](http://bit.ly/12AtDpd)
 - [The Creatures Corner!](http://rgcreatures.tripod.com/)
@@ -300,59 +302,59 @@
 - [Ziggy's Creatures Page](http://www.oocities.org/timessquare/ring/3220/)
 - [Albian Ecology](http://lyzzie.tripod.com/frame.htm)
 - [Albia Atlas](http://albia.tripod.com/)
-- [Creatures on TVTropes](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Creatures)
+- [Creatures on TVTropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Creatures)
 - [Dreams Studio](http://www.dreamsstudio.com/DS1-C3backdrop.html)
 - [Shee Tea Shop](http://sheeteashop.tumblr.com)
-- [Norns in the Mist](http://www.reocities.com/Hollywood/Set/8204/)
+- [Norns in the Mist](http://www.reocities.com/Hollywood/Set/8204/) ☠
 - [Ryo's Norn Sanctuary](http://www.geocities.ws/ryowarrior18/index-2.html)
-- [Review of Creatures 2](http://web.media.mit.edu/~bickmore/MAS962/creatures.html)
+- [Review of Creatures 2](http://web.media.mit.edu/~bickmore/MAS962/creatures.html) ☠
 - [Creatures From Lurkspace](http://mioonktooslurkspace.blogspot.com/)
 - [Naturing :: Nurturing](http://naturingnurturing.blogspot.com/)
 - [Creatures.WebSites Portal](http://portal.creatures.ws)
 - [Garden Box Central](http://bargles.skinhorse.net/index.php)
-- [geNorNics](http://meliweb.net/creatures/lobby.htm)
+- [geNorNics](http://meliweb.net/creatures/lobby.htm) ☠
 - [Dr. Ni's Laboratory of Wonder](http://doctornislab.blogspot.com/)
-- [Fishing Cactus Games](http://pinterest.com/fishingcactus/)
+- [Fishing Cactus Games](https://pinterest.com/fishingcactus/)
 - [Planet Colaw](http://www.colaw.net/launchpad/norns.html)
-- [Creatures Article](http://partners.nytimes.com/library/cyber/week/060597creatures.html)
+- [Creatures Article](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/060597creatures.html)
 - [Nightmare Norns](http://nightmarefornorns.blogspot.com/)
-- [Creatures Reddit](http://www.reddit.com/r/CreaturesNorns/)
+- [Creatures Reddit](https://www.reddit.com/r/CreaturesNorns/)
 - [Creatures Development Resource](http://creaturesdev.webs.com/caoscategoricalds.htm) ☠
 - [Creature World](http://boycrazy20.tripod.com/creatureworld/)
 - [As Told By Darby Doo](http://astoldbydarbydoo.blogspot.com)
 - [Designer Genes](http://kezune.com/sim/)
-- [Nornington Crescent](http://nutterscreatures.weebly.com)
-- [Aspects of Albia](http://www.haire.iofm.net/Creatures/AspectsofAlbia.html)
+- [Nornington Crescent](http://nutterscreatures.weebly.com) ☠
+- [Aspects of Albia](http://www.haire.iofm.net/Creatures/AspectsofAlbia.html) ☠
 - [2 if by C](http://2ifbyc.fortunecity.ws/)
-- [Steve Grand interview (2000)](http://www.generation5.org/content/2000/grand130900.asp)
-- [Steve Grand interview (1999)](http://www.generation5.org/content/1999/grand.asp)
+- [Steve Grand interview (2000)](http://www.generation5.org/content/2000/grand130900.asp) ☠
+- [Steve Grand interview (1999)](http://www.generation5.org/content/1999/grand.asp) ☠
 - [CC Advent Calendar 2012](http://advent2012.ylukyun.com/)
 - [CCSF 2012](http://ccsf2012.blogspot.com)
-- [Creatures 4 on Instagram](http://instagram.com/creatures4)
-- [Creatures on Wikipedia](http://en.wikipedia.org/wiki/Creatures_(artificial_life_series))
+- [Creatures 4 on Instagram](https://instagram.com/creatures4)
+- [Creatures on Wikipedia](https://en.wikipedia.org/wiki/Creatures_(artificial_life_series))
 - [NornenMeister](http://www.nornenmeister.creaturesforum.de)
 - [We Love Creatures!](http://fyeahcreaturesseries.tumblr.com/)
-- [Norn Creatures](http://pinterest.com/creatures4/)
+- [Norn Creatures](https://pinterest.com/creatures4/)
 - [Creatures Caves Button](http://creaturescaves.com/images/buttons/button.png)
 - [Emily's Observations](http://graydragonemilyscreatures.blogspot.com/)
 - [CreatureLink](http://creaturescaves.com/downloads.php?section=CreatureLink)
 - [The Lost Creatures Site](http://www.angelfire.com/wv/KlaymensPage/NetscapeMain.htm)
-- [La Page de Creatures](http://www.chez.com/ylo/Creatures/frame.htm)
+- [La Page de Creatures](http://ylo.chez.com/Creatures/frame.htm) 🇫🇷
 - [Grendelvulkano](http://grendelwoods.webs.com) ☠
 - [Dementopia](http://www.freewebs.com/dementopia/) ☠
 - [DS Village](http://www.freewebs.com/dsana/index.htm) ☠
 - [Kingdom of Aithalis](http://aithaluna.webs.com/) ☠
 - [Brf's Creatures Page](http://home.insightbb.com/~brf.creatures/creature.htm)
-- [Lake Albia](http://albia.nuclearrainbow.com/)
-- [Icepenguin's Albia](http://icepenguin.ifastnet.com/creatures/index.html)
+- [Lake Albia](http://albia.nuclearrainbow.com/) ☠
+- [Icepenguin's Albia](http://icepenguin.ifastnet.com/creatures/index.html) ☠
 - [Frimlin's Creatures](http://www.creaturesvillage.com/frimlin/)
-- [Official Creatures Online Site](http://creatures-online.co.uk/)
-- [Norn Adoption Center](http://www.creaturesforum.de/nornhome/index.jsp)
-- [Mummy's Creatures Forum](http://www.creaturesforum.de/forum/index.jsp)
+- [Official Creatures Online Site](http://creatures-online.co.uk/) ☠
+- [Norn Adoption Center](http://www.creaturesforum.de:8080/nornhome)
+- [Mummy's Creatures Forum](http://www.creaturesforum.de:8080/forum)
 - [The Creatures COB Collection](http://www.angelfire.com/or/ccc/index.html)
 - [Albia: Home of the Norn](http://www.angelfire.com/al/creature/)
 - [Bodale's Big Blue Dot](http://tammyaustralia.tripod.com/bodales/index.html)
-- [c3-ds-tools](http://c3-ds-tools.sourceforge.net/)
+- [c3-ds-tools](https://c3-ds-tools.sourceforge.net/)
 - [Creatures Paradise](http://creatures-paradise.creaturesforum.de/index.html)
 - [Creaturesisland](http://www.creaturesisland.de/index.html)
 - [The Norn Evolution](http://creature_creator.tripod.com/thenornevolution/index.html)
@@ -361,12 +363,12 @@
 - [Creatures Breed Dev Team](http://z3.invisionfree.com/CBDT/index.php)
 - [Lands of Mierth](http://mierth.proboards.com/)
 - [Norn Haven](http://dver.proboards.com/)
-- [Exploring the Ark](http://exploringtheark.livejournal.com/)
+- [Exploring the Ark](https://exploringtheark.livejournal.com/)
 - [Elean's Creatures 2](http://www.mynetcologne.de/~nc-schnabwi2/)
 
 # Sites archi1ved by Archive.org
 
-- [Creatures Heaven (Archive)](https://wayback.archive.org/web/20160304210530/http://creatures.virtualheaven.nl/)
+- [Creatures Heaven (Archive)](https://web.archive.org/web/20160304210530/http://creatures.virtualheaven.nl/)
 - [Evo-Tech](http://web.archive.org/web/20080116035900/http://www.ilus-ki.de/Evo-tech/newhp/frameset.html)
 - [Creatures3.norn](http://web.archive.org/web/20050911013825/http://creatures3.norn.free.fr/freenews/news.php)
 - [Rayon's Creatures](http://web.archive.org/liveweb/http://mitglied.multimania.de/Rayon2/creatures.htm)
@@ -428,6 +430,6 @@
 - [KNYTETRYPPER'S C3/DS NEXUS](http://web.archive.org/web/20070723201402/http:/www.knytetrypper.com/creatures.main.html)
 
 
-
+- [Buy Creatures Exodus from GOG.com (XP, Vista, 7)](https://www.gog.com/game/creatures_exodus)
 - [Buy Creatures Vilage from GOG.com (XP, Vista, 7)](https://www.gog.com/game/creatures_village)
 - [Buy Creatures The Albian Years from GOG.com (XP, Vista, 7)](https://www.gog.com/game/creatures_the_albian_years)
