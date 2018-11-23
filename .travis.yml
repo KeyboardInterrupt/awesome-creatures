@@ -8,5 +8,5 @@ before_script:
   - gem install mdl
 
 script:
-- awesome_bot README.md --allow-dupe  # Allow duplicate links
+- awesome_bot README.md --allow-dupe --white-list www.edash.screaming.net,geatville.zzl.org,m.fanfiction.net,www.freewebs.com,nirax.webs.com,nornity.blogspot.com,home.arcor.de # Allow duplicate links
 - mdl --rules ~MD013,~MD033 README.md # Ignore line length (MD013) and inline HTML (MD033) Rules
