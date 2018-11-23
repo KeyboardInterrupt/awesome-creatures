@@ -1,4 +1,8 @@
-# Unsorted initial List!
+# Awesome Creatures
+
+List of Creatures Resources
+
+## Unsorted initial List!
 
 - [Addicted to CAOS](http://addictedtocaos.blogspot.com/)
 - [Adventures in Nornsitting!](http://www.creaturesvillage.com/wafuru/e/main.html)
@@ -121,7 +125,7 @@
 - [xan's C3/DS Breed List](http://armaina.com/xan/creatures/breedlist/)
 
 
-# Sites Ripped of the Creatures Caves Link section
+## Sites Ripped of the Creatures Caves Link section
 
 - [The Imbecile's Guide to C2](https://m.fanfiction.net/s/657878/1/)
 - [MuppetBoy's Geatville](http://geatville.uk/)
@@ -365,7 +369,7 @@
 - [Exploring the Ark](https://exploringtheark.livejournal.com/)
 - [Elean's Creatures 2](http://www.mynetcologne.de/~nc-schnabwi2/)
 
-# Sites archi1ved by Archive.org
+## Sites archi1ved by Archive.org
 
 - [Creatures Heaven (Archive)](https://web.archive.org/web/20160304210530/http://creatures.virtualheaven.nl/)
 - [Evo-Tech](http://web.archive.org/web/20080116035900/http://www.ilus-ki.de/Evo-tech/newhp/frameset.html)
@@ -427,8 +431,3 @@
 - [W.O.R.L.D.S. (Archive)](http://web.archive.org/web/20021020085002if_/http://home.arcor.de:80/tehirsch/c3/index.html)
 - [Zareb's Creations (Archive)](https://web.archive.org/web/20100122024340/http://zc.albia2000.com/)
 - [KNYTETRYPPER'S C3/DS NEXUS](http://web.archive.org/web/20070723201402/http:/www.knytetrypper.com/creatures.main.html)
-
-
-- [Buy Creatures Exodus from GOG.com (XP, Vista, 7)](https://www.gog.com/game/creatures_exodus)
-- [Buy Creatures Vilage from GOG.com (XP, Vista, 7)](https://www.gog.com/game/creatures_village)
-- [Buy Creatures The Albian Years from GOG.com (XP, Vista, 7)](https://www.gog.com/game/creatures_the_albian_years)
