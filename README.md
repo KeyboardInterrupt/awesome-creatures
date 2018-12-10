@@ -2,6 +2,10 @@
 
 List of Creatures Resources
 
+## Found in the Wiki
+
+- [The Emerald Forge / Tangentrine.com](https://tangentrine.com)
+
 ## Unsorted initial List!
 
 - [Addicted to CAOS](http://addictedtocaos.blogspot.com/)
