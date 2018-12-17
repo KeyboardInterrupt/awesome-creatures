@@ -8,5 +8,5 @@ before_script:
   - gem install mdl
 
 script:
-- awesome_bot README.md
+- awesome_bot README.md --white-list web.archive.org,groups.yahoo.com,people.zeelandnet.nl
 #- mdl --rules ~MD013,~MD033 README.md # Ignore line length (MD013) and inline HTML (MD033) Rules
