@@ -52,10 +52,10 @@ List of Creatures Resources
 - [Creatures Developer Resource](http://double.nz/creatures/)
 - [Creatures Docking Station (Offline Patch)](http://creaturesdockingstation.com/)
 - [Creatures Explorer](http://creaturescaves.com/explorer/)
-- [Creaturesforum.de](http://www.creaturesforu)
+- [Creaturesforum.de](http://www.creaturesforum.de)
 - [CreaturesFrance](http://creaturesfrance.free.fr/) 🇫🇷
 - [CreaturesFrance Forum](http://creatures.pcjeuxvideo.com/forum/)
-- [Creatures From Lurkspace](http://mioonktooslurkspace.blogspot.com/)
+- [Creatures From Lurkspace](https://mioonktooslurkspace.blogspot.com/)
 - [Creatures Graphics Storeroom, The](http://www.feralchicken.co.uk/graphics/)
 - [Creatures Keepsakes](http://mythwoods.treesprite.com/viewforum.php?f=43&start=0)
 - [CreaturesNorns Reddit](https://www.reddit.com/r/CreaturesNorns/)
@@ -102,7 +102,7 @@ List of Creatures Resources
 - [Nadia Eat Hand](https://eat-hand.blogspot.com/)
 - [Naturing](http://naturingnurturing.blogspot.com/)
 - [Norngarden, The](http://norngarden.albia2000.com/)
-- [Norn Adoption Center](http://www.creaturesforum.de:8080/nornhome) 🇩🇪
+- [Norn Adoption Center](https://www.creaturesforum.de:8080/nornhome) 🇩🇪
 - [Norn Inn, The](http://imnorny.tripod.com/)
 - [Norn Nebula, The](https://thenornnebula.blogspot.com/)
 - [Norngirl's Temporary Storage Place](https://sites.google.com/site/norngirlstemporarystorageplace/)
@@ -270,7 +270,7 @@ List of Creatures Resources
 - [Creatures Developer Resource](http://double.nz/creatures/)
 - [Amanora's Creatures](http://creatures.amanora.de/)
 - [Adventures In Nornsitting](http://www.creaturesvillage.com/wafuru/e/main.html)
-- [Creatures Unlimited](http://germancreatures.net)
+- [Creatures Unlimited](http://germancreatures.net) ☠
 - [Mummy's Creatures](http://www.creatures.de)
 - [GreenReaper Studios](https://greenreaper.co.uk/)
 - [BoBCoB Source](https://doxxx.net/bobcob/)
@@ -334,11 +334,11 @@ List of Creatures Resources
 - [Steve Grand interview (1999)](http://www.generation5.org/content/1999/grand.asp) ☠
 - [CC Advent Calendar 2012](http://advent2012.ylukyun.com/)
 - [CCSF 2012](http://ccsf2012.blogspot.com)
-- [Creatures 4 on Instagram](https://www.instagram.com/creatures4)
+- [Creatures 4 on Instagram](https://www.instagram.com/creatures4/)
 - [Creatures on Wikipedia](https://en.wikipedia.org/wiki/Creatures_(artificial_life_series))
 - [NornenMeister](http://www.nornenmeister.creaturesforum.de)
 - [We Love Creatures!](http://fyeahcreaturesseries.tumblr.com/)
-- [Norn Creatures](https://www.pinterest.com/creatures4/)
+- [Norn Creatures](https://www.pinterest.com/creatures4/) ☠
 - [Creatures Caves Button](http://creaturescaves.com/images/buttons/button.png)
 - [Emily's Observations](http://graydragonemilyscreatures.blogspot.com/)
 - [CreatureLink](http://creaturescaves.com/downloads.php?section=CreatureLink)
@@ -358,7 +358,7 @@ List of Creatures Resources
 - [The Creatures COB Collection](http://www.angelfire.com/or/ccc/index.html)
 - [Albia: Home of the Norn](http://www.angelfire.com/al/creature/)
 - [Bodale's Big Blue Dot](http://tammyaustralia.tripod.com/bodales/index.html)
-- [c3-ds-tools](https://c3-ds-tools.sourceforge.net/)
+- [c3-ds-tools](https://sourceforge.net/projects/c3-ds-tools/files/)
 - [Creatures Paradise](http://creatures-paradise.creaturesforum.de/index.html)
 - [Creaturesisland](http://www.creaturesisland.de/index.html)
 - [The Norn Evolution](http://creature_creator.tripod.com/thenornevolution/index.html)
