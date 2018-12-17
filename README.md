@@ -202,7 +202,6 @@
 - [Balor's Creatures](https://sites.google.com/site/balorscreatures/home)
 - [Ettina's Labs](https://sites.google.com/site/ettinalabs/)
 - [Norngirl's Temporary Storage Place](https://sites.google.com/site/norngirlstemporarystorageplace/)
-- [Norngirl's Temp. Storage Place](https://sites.google.com/site/norngirlstemporarystorageplace/)
 - [The Creatures Clinic](https://sites.google.com/site/thecreaturesclinic/)
 - [The Undeadly Norn](https://sites.google.com/site/theundeadlynorn/)
 - [c3-ds-tools](https://sourceforge.net/projects/c3-ds-tools/files/)
