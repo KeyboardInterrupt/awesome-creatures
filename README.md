@@ -312,7 +312,7 @@ List of Creatures Resources
 - [Norns in the Mist](http://www.reocities.com/Hollywood/Set/8204/) ☠
 - [Ryo's Norn Sanctuary](http://www.geocities.ws/ryowarrior18/index-2.html)
 - [Review of Creatures 2](http://web.media.mit.edu/~bickmore/MAS962/creatures.html) ☠
-- [Creatures From Lurkspace](http://mioonktooslurkspace.blogspot.com/)
+- [Creatures From Lurkspace](https://mioonktooslurkspace.blogspot.com/)
 - [Naturing :: Nurturing](http://naturingnurturing.blogspot.com/)
 - [Creatures.WebSites Portal](http://portal.creatures.ws)
 - [Garden Box Central](http://bargles.skinhorse.net/index.php)
@@ -334,7 +334,7 @@ List of Creatures Resources
 - [Steve Grand interview (1999)](http://www.generation5.org/content/1999/grand.asp) ☠
 - [CC Advent Calendar 2012](http://advent2012.ylukyun.com/)
 - [CCSF 2012](http://ccsf2012.blogspot.com)
-- [Creatures 4 on Instagram](https://www.instagram.com/creatures4/)
+- [Creatures 4 on Instagram](https://www.instagram.com/creatures4/) ☠
 - [Creatures on Wikipedia](https://en.wikipedia.org/wiki/Creatures_(artificial_life_series))
 - [NornenMeister](http://www.nornenmeister.creaturesforum.de)
 - [We Love Creatures!](http://fyeahcreaturesseries.tumblr.com/)
