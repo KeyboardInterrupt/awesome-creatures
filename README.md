@@ -4,6 +4,8 @@
 
 ## Unsorted Stuff
 
+A huge uncategorized List of all the Sites that are out there and still kicking it.
+
 - [2 if by C](http://2ifbyc.fortunecity.ws/)
 - [Addicted to CAOS](http://addictedtocaos.blogspot.com/)
 - [Adventures In Nornsitting](http://www.creaturesvillage.com/wafuru/e/main.html)
@@ -223,6 +225,8 @@
 
 ## Creatures Wiki
 
+This Section contains Creatures Wiki Topics.
+
 - [The Creatures Wiki](https://creatures.wiki/Creatures_Wiki_Homepage)
 - [From the Creatures Wiki](http://from.the.creatures.wiki/)
 - [Caos Coding Cave](https://creatures.wiki/Caos_Coding_Cave)
@@ -230,6 +234,9 @@
 - [Grandroids (an ongoing project by Steve Grand)](https://creatures.wiki/Grandroids)
 
 ## Archived on Archive.org
+
+This section contains sites that are gone but, more or less, preserverd by archive.org.
+
 
 - [A Inc. Creatures (Archived 2011)](https://web.archive.org/web/20110826184341/http://www.freewebs.com/cherkgarcreatures/forums.htm)
 - [A World Of Our Own (Archived 2009)](https://web.archive.org/web/20091026232009/http://www.geocities.com/SiliconValley/Bit/9990/main.html)
@@ -335,3 +342,10 @@
 - [W.O.R.L.D.S. (Archived 2002)](https://web.archive.org/web/20021020085002if_/http://home.arcor.de:80/tehirsch/c3/index.html)
 - [X-Norn's Creatures2 World (Archived 2001)](https://web.archive.org/web/20010404032231/http://www.geocities.com/area51/starship/5903/)
 - [Zareb's Creations (Archived 2010)](https://web.archive.org/web/20100122024340/http://zc.albia2000.com/)
+
+
+# Dead Sites
+
+This Section contains all the "dead" sites... If yo got any Information on these sites, please let us know :)
+
+- [Klick here to go to the Dead Sites :()](dead_sites.md)
