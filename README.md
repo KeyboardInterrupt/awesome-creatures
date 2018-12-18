@@ -2,7 +2,6 @@
 
 > A collaborative curated list of awesome Creatures Sites.
 
-
 ## Unsorted Stuff
 
 - [2 if by C](http://2ifbyc.fortunecity.ws/)
@@ -232,10 +231,10 @@
 
 ## Archived on Archive.org
 
-
 - [A World Of Our Own (Archive)](http://web.archive.org/web/20091026232009/http://www.geocities.com/SiliconValley/Bit/9990/main.html)
 - [Abnornal (Archive)](http://web.archive.org/web/20021201025857/http://www.abnornal.i-p.com/)
 - [Albian Oceans (Archive)](http://web.archive.org/web/20070605214649/http://www.aquasheep.be/albianoceans/)
+- [Azumi's Aw(e) Cavern (Archive)](https://web.archive.org/web/20121126225256/http://www.alaboo.com/awecavern/index.html)
 - [Bugs Lair (Archive)](http://web.archive.org/web/20030412082802/http://www.pagan-gerbil.co.uk/bugslair/)
 - [Callie's Creatures](https://web.archive.org/web/20160325065941/http://gabby.8m.com/)
 - [Chronology Series by Lis Morris (Archive)](http://web.archive.org/web/20031214055443fw_/http://www.shee.demon.co.uk:80/chron.html)
@@ -262,14 +261,17 @@
 - [Evo-Tech (Archive)](http://web.archive.org/web/20080116035900/http://www.ilus-ki.de/Evo-tech/newhp/frameset.html)
 - [Geatville](https://web.archive.org/web/20131125195637/http://geatville.zzl.org/index.html)
 - [Geek Ettin's Lab](https://web.archive.org/web/20150218080243/http://creaturescommunity.net/eprillios/blog/)
+- [geNorNics (Archive)](https://web.archive.org/web/20080801093318/http://www.meliweb.net:80/creatures/lobby.htm)
 - [God of the Norns (Archive)](http://web.archive.org/web/20000605223245/http://www.newscientist.com/nl/0401/stephengrand.html)
 - [Grendel Overground (Archive)](http://web.archive.org/web/20130430075436/http://www.popuptoaster.com/GO/)
 - [Grendelvulkano](https://web.archive.org/web/20130926114832/http://grendelwoods.webs.com/)
 - [Hacking Creatures (Archive)](http://web.archive.org/web/20050106204805/http://ricardo.strangevistas.net/creatures/index.html)
 - [Helen's Bibble Directory (Archive)](https://web.archive.org/web/20060720202321/http://www.helephant.com:80/creatures/index.php)
 - [High Tech Hand, The (Archive)](http://web.archive.org/web/20080108060915/http://clucky.sts.winisp.net/default.aspx)
+- [Icepenguin's Albia (Archive)](https://web.archive.org/web/20070905141119/http://icepenguin.ifastnet.com/creatures/index.html)
 - [Iggdrasil (Archive)](http://web.archive.org/web/20111013211336/http://www.iggdrasil.net/)
 - [Jimbo's Creatures Page (Archive)](http://web.archive.org/web/20021127225757/http://www.geocities.com/TimesSquare/Cavern/1556/)
+- [Jodie's Creatures Breeds (Archive)](https://web.archive.org/web/20130506225021/http://jodiescreaturebreeds.webs.com/)
 - [Juli's Norn Pad (Archive)](http://web.archive.org/web/20070426205848/http://julipad.com/nornpad/)
 - [Kingdom of Aithalis](https://web.archive.org/web/20110830131513/http://aithaluna.webs.com/)
 - [Kiz's Creatures (Archive)](http://web.archive.org/web/20090723165707/http://geocities.com/kizcreatures/)
@@ -281,14 +283,18 @@
 - [Mkid's Agents (Archive)](http://web.archive.org/web/20041026123536/www.edash.net/mk/download.php)
 - [Moriahs Brutkasten](https://web.archive.org/web/20170120231932/http://home.arcor.de/amaya_teshi/)
 - [MysticFalcon's Worldz (Archive)](http://web.archive.org/web/20031018013524/http://home.comcast.net/~mysticfalcon/)
+- [Nirax's Little Creatures Page (Archive)](https://web.archive.org/web/20120831081152/http://nirax.webs.com:80/index.htm)
 - [Norn Adoption Center (Archive)](https://web.archive.org/web/20170823122255/http://www.creaturesforum.de:8080/nornhome/index.jsp?sublist=2)
 - [Norn Fleet Academy (Archive)](http://web.archive.org/web/20050403220318/http://norntrek.chani3.com/)
 - [Norngirl's Paradizia Place (Archive)](http://web.archive.org/web/20111202183552/http://www.paradiziaplace.com/)
+- [Nornington Crescent (Archive)](https://web.archive.org/web/20150207001300/http://nutterscreatures.weebly.com/)
+- [Nornity (Archive)](https://web.archive.org/web/20130517004232/http://nornity.blogspot.com/)
 - [Official Creatures Online Site](https://web.archive.org/web/20160317161303/http://creatures-online.co.uk:80/)
 - [Palace of the Evil Shee, The (Archive)](http://web.archive.org/web/20030214113939/http://www.shee.demon.co.uk:80/)
 - [Piecemeal's Adequate Creatures (Archive)](http://web.archive.org/web/20020620043541/http:/www.geocities.com/SunsetStrip/Venue/1492/creatures.html)
 - [Queer as Creatures (Archive)](http://web.archive.org/web/20010710005007/http://www.amanita.f9.co.uk/qac/index.htm)
 - [Rayon's Creatures (Archive)](http://web.archive.org/liveweb/http://mitglied.multimania.de/Rayon2/creatures.htm)
+- [Review of Creatures 2 (Archive)](https://web.archive.org/web/20080922233838/http://web.media.mit.edu:80/~bickmore/MAS962/creatures.html)
 - [Sanny's Creatures Homepage (Archive)](http://web.archive.org/web/20091205171956/http://www.sanny-hp.de/frame.html)
 - [Sarah's Creatures (Archive)](http://web.archive.org/web/20121115020222/http://sarah.deobald.de/index.html)
 - [Scientist of the Mask (Archive)](https://web.archive.org/web/20040923010131/http://jewelscr3.tripod.com/)
@@ -300,10 +306,12 @@
 - [The Creatures of Avalon (Archive)](http://web.archive.org/web/20111228040752/http://www.creatures-of-avalon.de/)
 - [The Magic of Creatures (Archive)](http://web.archive.org/web/19990222073456/http://members.aol.com/K12Samson/cmagic.html)
 - [The Mystical Forests of Albia (Archive)](http://web.archive.org/liveweb/http://mitglied.multimania.de/Neogecko/HP/mfa001.htm)
+- [The Norn Dating Agency (Archive)](https://web.archive.org/web/20130926110638/http://thenorndatingagency.webs.com/)
 - [The Norn Notepad](https://web.archive.org/web/20090529001644/http://bellsouthpwp.net:80/m/r/mrlittleguy/index.html)
 - [The Rise of Norn Civilization (Archive)](http://web.archive.org/web/19991004050915/http:/www.geocities.com/SiliconValley/Foothills/4310/index.htm)
 - [The Shee Shuttle (Archive)](http://web.archive.org/web/19991023040638/http://members.aol.com/CompCow/sheeshuttle.html)
 - [The Truth About Grendels (Archive)](http://web.archive.org/web/20120401214605/http://users.rcn.com/dvoskuil/grendel/grendel.html)
+- [The Universe of Ettins (Archive)](https://web.archive.org/web/20141026201431/http://www.ettin-trix.be:80/)
 - [Truth About Grendels, The (Archive)](http://web.archive.org/web/20050406012421/http://users.rcn.com/dvoskuil/grendel/grendel.html)
 - [Virtual Sadism (Archive)](http://web.archive.org/web/20011121150053/http://www.wired.com/news/topstories/0,1287,13293,00.html)
 - [W.O.R.L.D.S. (Archive)](http://web.archive.org/web/20021020085002/http://home.arcor.de/tehirsch/c3/index.html)
