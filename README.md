@@ -124,7 +124,7 @@ A huge uncategorized List of all the Sites that are out there and still kicking 
 - [Gooseberry Garden](http://www.oocities.org/enchantedforest/8709/)
 - [Grandroids at Kickstarter](https://www.kickstarter.com/projects/1508284443/grandroids-real-artificial-life-on-your-pc)
 - [GreenReaper Studios](https://greenreaper.co.uk/)
-- [Hausmouse's Creatures 3 Page](http://archive.is/20121219223756/home.comcast.net/~hausmouse7/)
+- [Hausmouse's Creatures 3 Page](http://archive.ph/20121219223756/home.comcast.net/~hausmouse7/)
 - [Heck Yeah, Creatures!](http://fyeahcreaturesseries.tumblr.com/)
 - [Helen's Bibble Directory](http://creaturesvillage.com/helen/)
 - [Home Sweet Albia](http://zenzoa.com/creatures/)
