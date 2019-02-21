@@ -184,6 +184,7 @@ A huge uncategorized List of all the Sites that are out there and still kicking 
 - [Symia's Norn Site](http://symia.tripod.com/symianet/)
 - [TazzMan's Creatures Universe](http://tazzmann.tripod.com/index.html)
 - [TC2WWNW](http://www.geocities.ws/EnchantedForest/Dell/6935/)
+- [The Terrarium](http://www.terrarium.f9.co.uk/)
 - [The Albian WebNest](http://theawn.tripod.com/)
 - [The Arch](http://thecreaturearch.blogspot.com/)
 - [The Creature Repository](https://tcr.diagonalfish.net/)
