@@ -111,7 +111,6 @@ A huge uncategorized List of all the Sites that are out there and still kicking 
 - [Exploring the Ark](https://exploringtheark.livejournal.com/)
 - [Fig's Tree](http://www.creaturesvillage.com/fig/)
 - [Fishing Cactus Games](https://www.pinterest.com/fishingcactus/)
-- [Fishing Cactus Studios Forums](http://forums.fishingcactus.com/index.php)
 - [Fluff's Nornheim](https://flubdis.beepworld.de/)
 - [Frimlin's Creatures](http://www.creaturesvillage.com/frimlin/)
 - [Frimlin's Creatures](http://www.creaturesvillage.com/frimlin/index.php)
