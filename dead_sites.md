@@ -18,3 +18,4 @@ This Section contains all the "dead" sites... If yo got any Information on these
 - [Norn Creatures](https://www.pinterest.com/creatures4/)
 - [Steve Grand interview (1999)](http://www.generation5.org/content/1999/grand.asp)
 - [Steve Grand interview (2000)](http://www.generation5.org/content/2000/grand130900.asp)
+- [Discover Albia Forum (Read-Only)](http://discoveralbia.com/forum/)
