@@ -230,7 +230,6 @@ This Section contains Creatures Wiki Topics.
 
 This section contains sites that are gone but, more or less, preserverd by archive.org.
 
-
 - [A Inc. Creatures (Archived 2011)](https://web.archive.org/web/20110826184341/http://www.freewebs.com/cherkgarcreatures/forums.htm)
 - [A World Of Our Own (Archived 2009)](https://web.archive.org/web/20091026232009/http://www.geocities.com/SiliconValley/Bit/9990/main.html)
 - [Abnornal (Archived 2002)](https://web.archive.org/web/20021201025857/http://www.abnornal.i-p.com/)
@@ -344,8 +343,7 @@ This section contains sites that are gone but, more or less, preserverd by archi
 - [X-Norn's Creatures2 World (Archived 2001)](https://web.archive.org/web/20010404032231/http://www.geocities.com/area51/starship/5903/)
 - [Zareb's Creations (Archived 2010)](https://web.archive.org/web/20100122024340/http://zc.albia2000.com/)
 
-
-# Dead Sites
+## Dead Sites
 
 This Section contains all the "dead" sites... If yo got any Information on these sites, please let us know :)
 
